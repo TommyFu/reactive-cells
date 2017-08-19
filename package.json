@@ -1,0 +1,12 @@
+{
+  "name": "reactive-cells",
+  "version": "1.0.0",
+  "description": "reactive cells",
+  "scripts": {
+    
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "liok3187@gmail.com",
+  "license": "MIT"
+}
