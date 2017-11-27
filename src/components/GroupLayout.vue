@@ -16,12 +16,8 @@ export default {
     }
   },
   methods: {
-		foo () {
-			
-		},
 	},
   created: function(){
-    
   },
 }
 </script>
