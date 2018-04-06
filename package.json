@@ -53,7 +53,7 @@
     "less": "^2.7.2",
     "less-loader": "^4.0.5",
     "lolex": "^1.5.2",
-    "mocha": "^3.2.0",
+    "mocha": "^3.5.3",
     "nightwatch": "^0.9.12",
     "node-sass": "^4.5.3",
     "opn": "^5.1.0",
